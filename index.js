@@ -9,5 +9,5 @@ client.on('ready', () => {
     client.user.setActivity('With JavaScript', { type: 'PLAYING' })
 })
 
-client.login('NDgzMDMxNjYwMjc1ODI2Njg4.XcNXIg.uaghnd1Ba8hyDEY-L_vVFw-8Qb0')
+client.login('...')
 
