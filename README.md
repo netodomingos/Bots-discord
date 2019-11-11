@@ -1,5 +1,5 @@
 # Bots-discord Feito em JavaScript
-Crianção de Bots que mostram exercicios de **HTML**, **CSS** e **JavaScript** no servidor da [Nexus.dev](https://discord.gg/PVHmX52) no **discord**.
+Criação de Bots que mostram exercicios de **HTML**, **CSS** e **JavaScript** no servidor da [Nexus.dev](https://discord.gg/PVHmX52) no **discord**.
 ![bot](https://user-images.githubusercontent.com/49910898/68615868-a48ae300-04a2-11ea-81bc-c03b4ce5ea0b.PNG)
 
 ## Como utilizar o projeto?
