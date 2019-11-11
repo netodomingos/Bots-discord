@@ -52,5 +52,5 @@ function simpleExCss() {
     botText.send('Em Breve')
 }
 
-client.login('NDgzMDMxNjYwMjc1ODI2Njg4.Xcl-Sg.wTMBJ7bh6pCwwIxh3EwQ0UhlM3c')
+client.login('...')
 
